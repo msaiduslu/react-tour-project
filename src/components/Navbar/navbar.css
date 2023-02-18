@@ -1,0 +1,23 @@
+.navbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100px ;
+  background-color: #171A20;
+}
+
+.navbar a{
+  display: flex;
+  text-decoration: none;
+  color: white;
+  font-size: 2rem;
+  text-transform: uppercase;
+  height: 100%;
+  align-items: center;
+  padding: 1.5rem;
+}
+
+.navbar a:hover{
+  background-color: #BAE3F6;
+  color: black;
+}
